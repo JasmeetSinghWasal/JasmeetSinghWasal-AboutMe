@@ -14,6 +14,7 @@ Currently targeting **Software Architect** track
 
 ### 💰 Financial Dashboard *(Private now — 150+ clones)*
 > Full-stack financial platform with enterprise-grade architecture
+> Personally managed feature roadmap and sprint planning via JIRA as part of building this toward a production-ready product
 
 - **Next.js 16** frontend with server components, server actions, and AG Grid
 - **.NET 10 Web API** with Clean/Onion Architecture, EF Core + PostgreSQL
