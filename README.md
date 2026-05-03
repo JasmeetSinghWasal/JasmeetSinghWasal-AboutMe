@@ -12,7 +12,7 @@ Currently targeting **Software Architect** track
 
 ## 🚀 Featured Projects
 
-### 💰 Financial Dashboard *(Private — 150+ clones)*
+### 💰 Financial Dashboard *(Private now — 150+ clones)*
 > Full-stack financial platform with enterprise-grade architecture
 
 - **Next.js 16** frontend with server components, server actions, and AG Grid
