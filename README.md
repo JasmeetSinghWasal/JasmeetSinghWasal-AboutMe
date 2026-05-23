@@ -1,7 +1,7 @@
 # Hi, I'm Jasmeet Singh 👋 (Open for oppurtunities)
 
 **Senior Full Stack Developer** based in **Toronto, Canada**  
-8+ years building scalable web apps with **.NET | React | NextJs | Azure**  
+8+ years building scalable web apps with **.NET | React | NextJs | Azure | Event Driven**  
 Currently targeting **Software Architect** track
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:jswasal@gmail.com)
